@@ -37,6 +37,3 @@ cd Accounting-System
 
 🛠 Technologies Used
 MySQL
-
-📸 Preview
-![ER Diagram](ERdiagram.png)
